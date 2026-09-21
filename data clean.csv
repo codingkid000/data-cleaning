@@ -1,0 +1,21 @@
+Student_ID,Student_Name,Age,Gender,City,Course,Marks,Attendance,Fees,Join_Date,Email,Phone
+1001, Arun Kumar,22,Male,Chennai,Python,85,92,25000,2026-01-10,arun@gmail.com,9876543210
+1002,Priya,21,Female,chennai,python,78,88,25000,2026-01-12,priya@gmail.com,9876543211
+1003,Rahul,25,M,Madurai,Data Science,92,95,30000,2026/01/15,rahulgmail.com,9876543212
+1004, Meena ,23,Female,Coimbatore,Python,,90,25000,15-01-2026,meena@gmail.com,
+1005,Kumar,150,Male,Chennai,Data Science,67,75,30000,2026-02-01,kumar@gmail.com,98765
+1006,Arun Kumar,22,male,MADURAI,Python,85,92,,2026-02-05,arun@gmail.com,9876543210
+1007,Priya,21,female,Chennai,Python,78,,25000,2026-02-10,PRIYA@GMAIL.COM,9876543211
+1008,Suresh,19,M,Trichy,Data Science,45,68,30000,2026-02-15,sureshgmail.com,9876543213
+1009,Divya,24,Female, Chennai ,Python,88,91,25000,invalid,divya@gmail.com,9876543214
+1010,Karthik,28,Male,Coimbatore,Data Science,105,85,30000,2026-03-01,karthik@gmail.com,9876543215
+1011,Meena,23,Female,coimbatore,Python,76,89,25000,2026-03-05,,9876543216
+1012,Rahul,25,M,Salem,Data Science,92,-10,30000,2026-03-10,rahul@gmail.com,9876543217
+1013,Anitha,22,Female,Chennai,Python,65,82,25000,2026-03-15,anitha@gmail.com,9876543218
+1014,Vijay,17,Male,Salem,Python,55,70,25000,2026-03-20,vijay@gmail.com,9876543219
+1015,Sanjay,30,M,Trichy,Data Science,73,105,30000,2026-04-01,sanjay@gmail.com,9876543220
+1016,Priya,21,Female,CHENNAI,Python,78,88,25000,2026-04-05,priya@gmail.com,9876543211
+1017,Kumar ,26,Male,Madurai,Data Science,,93,30000,2026-04-10,kumar@gmail.com,9876543222
+1018,Anitha,22,Female,Salem,Python,65,82,25000,2026-04-15,anitha@gmail.com,9876543223
+1019,Ravi,24,Male,Chennai,Python,81,90,25000,2026-05-01,ravigmail.com,9876543224
+1020,,27,Male,Madurai,Data Science,89,94,30000,2026-05-05,ramesh@gmail.com,9876543225
